@@ -21,3 +21,4 @@
 - select *Enter interpreter path..*
     - enter absolute path to virtual environment python
         - ex: */home/usr/my_venv/bin/python3*
+#### [markdown pro-tips](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
